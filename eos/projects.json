@@ -6,10 +6,9 @@
     "subInfos": [
       {
         "label": "Audited",
-        "color": "badgeBlue",
         "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=da0118f07b4b57e855aef73bd5fae341ca85b57bccfa8d3249603626032e8748"
       },
-      { "label": "MSIG", "color": "badgeOrange" }
+      { "label": "MSIG" }
     ],
     "group": "https://t.me/dmdfinace",
     "description": "DMD.finance is the first yield farming on EOS, which shows its respect to YFI. No pre-mine, no founder shares, no VC interests, equality for every participant.",
@@ -25,7 +24,6 @@
     "subInfos": [
       {
         "label": "Audited",
-        "color": "badgeBlue",
         "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=ca2c97083e94d0958e9376b770b16a7f8ddd53fb1e5f1b9cbabc0ccf8d157d40"
       }
     ],
@@ -43,7 +41,6 @@
     "subInfos": [
       {
         "label": "Audited",
-        "color": "badgeBlue",
         "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=82201ed8447edd45822aa0e989f7ec22712d02b55026cb6d04b19ea86c03d56e"
       }
     ],
@@ -54,7 +51,7 @@
     "id": "Vigor",
     "title": "VIGOR",
     "group": "https://t.me/vigorprotocol",
-    "subInfos": [{ "label": "MSIG", "color": "badgeOrange" }],
+    "subInfos": [{ "label": "MSIG" }],
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/vigor.png",
     "link": "https://vigor.ai/",
     "koreanDesc": "세계최초의 무료 탈중앙화 다중담보 및 저변동성 토큰 프로토콜입니다.",
@@ -64,7 +61,7 @@
   {
     "id": "eHub",
     "title": "eHUB",
-    "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://medium.com/@e.fi/ehub-token-offering-4d6328561593",
     "chineseDesc": "一种能够实现跨链资产转移的开放DeFi协议。",
     "koreanDesc": "eHUB는 퍼미션 없이 프라이빗 크로스체인 거래를 가능하게 해주는 오픈소스 프로토콜입니다. 이는 크로스체인 자산을 DeFi 어플리케이션에 유입시킬 수 있게 해줍니다.",
@@ -75,7 +72,7 @@
   {
     "id": "coral",
     "title": "Coral",
-    "subInfos": [{ "label": "MSIG", "color": "badgeOrange" }],
+    "subInfos": [{ "label": "MSIG" }],
     "link": "https://crl.finance/",
     "chineseDesc": "用户可通过抵押代币或提供流动性赚取Coral代币。",
     "koreanDesc": "토큰들 스테이킹하거나 유동성을 공급하여 Coral 토큰을 벌 수 있습니다.",
@@ -86,7 +83,7 @@
   {
     "id": "wool",
     "title": "WOOL.finance",
-    "subInfos": [{ "label": "Audited", "color": "badgeBlue" }],
+    "subInfos": [{ "label": "Audited" }],
     "link": "https://wool.finance",
     "koreanDesc": "WOOL 은 YFL 와 BTC의 정신을 이어받아 사전주조, 설립자,투자자, 및 사기가 존재하지 않습니다.",
     "chineseDesc": "WOOL无预挖、无创始人、无花招…是一个完全秉承BTC和YFI去中心化原则的项目。",
@@ -97,7 +94,7 @@
   {
     "id": "superdad",
     "title": "DAD Token",
-    "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://www.reddit.com/r/dappaccountDAO/",
     "koreanDesc": "DAD는 제안된 리소스 모델을 실험하는 분산화 커뮤니티입니다. DAD의 거버넌스 시스템은 어떠한 중앙화된 그룹으로부터 영향을 받지 않으며, 커뮤니티에 의해 이끌어집니다.",
     "description": "DAD is a decentralized community experimenting with a proposed resource model, and and governance system not controlled by any centralized group, team, or entity, but rather by the community itself.",
@@ -107,7 +104,7 @@
   {
     "id": "ogx",
     "title": "Organix Protocol",
-    "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://ogx.network/",
     "chineseDesc": "OGX是Organix协议上的代币，Organix对标的是以太坊上的Synthetix，通过Organix，不但可以在 EOS 主网上合成 BTC、ETH、LINK、DOT 等数字货币资产，而且还可以把黄金、股票等资产合成到 EOS 主网上。",
     "koreanDesc": "OGX는 Organix 프로토콜의 베이직 토큰이며 oUSD를 생성하기 위한 담보로 사용될 수 있습니다. oUSD는 시스템 전체에서 사용되는 스테이블 코인입니다. 1oUSD는 1USD와 동등한 가치를 갖습니다.",
@@ -118,7 +115,7 @@
   {
     "id": "yfc",
     "title": "Your Fancy Carp",
-    "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://www.yfc.one/",
     "chineseDesc": "YFC的目标是成为EOS主网上的YFII，成为用户的公共赚钱机器。",
     "koreanDesc": "YFC의 목표는 블록체인상에 Bridgewater Associates과 같은 회사를 구축하여, YFII와 같이 퍼블릭 머니 메이킹 머신이 되는 것 입니다.",
@@ -129,7 +126,7 @@
   {
     "id": "dolphin",
     "title": "DolphinSwap",
-    "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://dolphinswap.io",
     "chineseDesc": "DOP是DolphinSwap平台的治理代币，它将与DolphinSwap业务紧密结合。成为EFI生态的重要组成部分。",
     "koreanDesc": "DOP는 DolphinSwap 플랫폼의 거버넌스 토큰이며 DolphinSwap 비지니스와 깊은 연관성을 가질 것입니다. DolphinSwap는 EFi 생태계의 중요한 부분이 될 것입니다.",
@@ -140,7 +137,7 @@
   {
     "id": "rabbit",
     "title": "Rabbit",
-    "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://www.rabbits.finance",
     "chineseDesc": "第一个在EOS上采用TVI模式的优质农场。 没有创始人，没有风险投资，人人平等。",
     "koreanDesc": "EOS에서 TVI모드를 채택한 최초의 Yield농장. 설립자 또는 투자자가 없으며, 모두에게 동등합니다.",
@@ -151,7 +148,7 @@
   {
     "id": "pizza",
     "title": "PIZZA",
-    "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://pizza.live",
     "chineseDesc": "PIZZA-USDE是基于EOS的双代币稳定币系统。 该系统通过抵押加密资产来发行稳定币（USDE）。 通过过多的抵押品和不同智能合约的部署，该系统消除了市场波动带来的潜在风险，并使1：1稳定币与美元挂钩。 PIZZA代币是PIZZA-USDE稳定币系统中的治理代币。",
     "koreanDesc": "PIZZA-USDE는 EOS기반의 듀오토큰 스테이블코인 시스템입니다. 이 시스템은 크립토자산을 담보로 USDE스테이블코인을 발행합니다. 초과담보와 다양한 스마트컨트랙들을 이용하여, 시스템은 시장변동의 위험성을 감소시키고 스테이블코이늘이 USD와 1:1로 패깅될 수 있도록 합니다. PIZZA토큰은 PIZZA-USDE스테이블코인 시스템의 거버넌스 토큰입니다.",
