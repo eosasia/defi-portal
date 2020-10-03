@@ -95,9 +95,10 @@
   },
   {
     "id": "superdad",
-    "title": "DAPP Account DAC",
+    "title": "DAD Token",
     "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
     "link": "https://www.reddit.com/r/dappaccountDAO/",
+    "koreanDesc": "DAD는 제안된 리소스 모델을 실험하는 분산화 커뮤니티입니다. DAD의 거버넌스 시스템은 어떠한 중앙화된 그룹으로부터 영향을 받지 않으며, 커뮤니티에 의해 이끌어집니다.",
     "description": "DAD is a decentralized community experimenting with a proposed resource model, and and governance system not controlled by any centralized group, team, or entity, but rather by the community itself.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/dad.png",
     "group": "https://t.me/DAD_Token"
@@ -107,6 +108,7 @@
     "title": "Organix Protocol",
     "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
     "link": "https://ogx.network/",
+    "koreanDesc": "OGX는 Organix 프로토콜의 베이직 토큰이며 oUSD를 생성하기 위한 담보로 사용될 수 있습니다. oUSD는 시스템 전체에서 사용되는 스테이블 코인입니다. 1oUSD는 1USD와 동등한 가치를 갖습니다.",
     "description": "OGX is the basic token on Organix protocol, which can be used as collateral to mint oUSD. oUSD is the stable coin in the whole system, the system always values 1 oUSD at 1 USD.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/organix.png",
     "group": "https://t.me/OrganixProtocol"
@@ -116,6 +118,7 @@
     "title": "Your Fancy Carp",
     "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
     "link": "https://www.yfc.one/",
+    "koreanDesc": "YFC의 목표는 블록체인상에 Bridgewater Associates과 같은 회사를 구축하여, YFII와 같이 퍼블릭 머니 메이킹 머신이 되는 것 입니다.",
     "description": "YFC's goal is to build a bridgewater associates company on the blockchain, like YFII, becoming a public money-making machine.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/yfc.png",
     "group": "https://t.me/dfsnet"
@@ -125,6 +128,7 @@
     "title": "DolphinSwap",
     "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
     "link": "https://dolphinswap.io",
+    "koreanDesc": "DOP는 DolphinSwap 플랫폼의 거버넌스 토큰이며 DolphinSwap 비지니스와 깊은 연관성을 가질 것입니다. DolphinSwap는 EFi 생태계의 중요한 부분이 될 것입니다.",
     "description": "DOP is the governance token of the DolphinSwap platform, which will be deeply bound to the DolphinSwap business. DolphinSwap and will be an important part of the EFi ecology.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/dop.png",
     "group": "https://t.me/dmdfinace"
@@ -134,6 +138,7 @@
     "title": "Rabbit",
     "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
     "link": "https://www.rabbits.finance",
+    "koreanDesc": "EOS에서 TVI모드를 채택한 최초의 Yield농장. 설립자 또는 투자자가 없으며, 모두에게 동등합니다.",
     "description": "The first Yield Farm to adopt TVI mode on EOS. No founders, no VC, equality for everyone.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/rabbit.png",
     "group": "https://t.me/rabbits_eos"
@@ -143,6 +148,7 @@
     "title": "PIZZA",
     "subInfos": [{ "label": "Higher Risk", "color": "badgeRed" }],
     "link": "https://pizza.live",
+    "koreanDesc": "PIZZA-USDE는 EOS기반의 듀오토큰 스테이블코인 시스템입니다. 이 시스템은 크립토자산을 담보로 USDE스테이블코인을 발행합니다. 초과담보와 다양한 스마트컨트랙들을 이용하여, 시스템은 시장변동의 위험성을 감소시키고 스테이블코이늘이 USD와 1:1로 패깅될 수 있도록 합니다. PIZZA토큰은 PIZZA-USDE스테이블코인 시스템의 거버넌스 토큰입니다.",
     "description": "PIZZA-USDE is an EOS based duo-token stablecoin system. The system issues stablecoin (USDE) by collateralizing crypto assets. With excess collateral and deployment of different smart contracts, the system neutralizes the potential risks from market fluctuations and allows the stablecoin 1:1 pegged to USD. PIZZA Token is the governance token in the PIZZA-USDE Stablecoin System.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/pizza.png",
     "group": "https://t.me/PizzaUSDE"
