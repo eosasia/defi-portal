@@ -8,7 +8,10 @@
         "label": "Audited",
         "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=da0118f07b4b57e855aef73bd5fae341ca85b57bccfa8d3249603626032e8748"
       },
-      { "label": "MSIG" }
+      { 
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/eosdmdtokens?keys=open"
+      }
     ],
     "group": "https://t.me/dmdfinace",
     "description": "DMD.finance is the first yield farming on EOS, which shows its respect to YFI. No pre-mine, no founder shares, no VC interests, equality for every participant.",
@@ -51,7 +54,12 @@
     "id": "Vigor",
     "title": "VIGOR",
     "group": "https://t.me/vigorprotocol",
-    "subInfos": [{ "label": "MSIG" }],
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/dacauth11111?keys=open"
+      }
+    ],
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/vigor.png",
     "link": "https://vigor.ai/",
     "koreanDesc": "세계최초의 무료 탈중앙화 다중담보 및 저변동성 토큰 프로토콜입니다.",
@@ -72,7 +80,12 @@
   {
     "id": "coral",
     "title": "Coral",
-    "subInfos": [{ "label": "MSIG" }],
+    "subInfos": [
+      { 
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/coralfitoken?keys=open"
+      }
+    ],
     "link": "https://crl.finance/",
     "chineseDesc": "用户可通过抵押代币或提供流动性赚取Coral代币。",
     "koreanDesc": "토큰들 스테이킹하거나 유동성을 공급하여 Coral 토큰을 벌 수 있습니다.",
