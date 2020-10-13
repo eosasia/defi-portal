@@ -178,7 +178,7 @@
     "id": "PDD",
     "title": "PDD Farm",
     "group": "https://t.me/dfsnet",
-    "subInfos": [{ "label": "DFS" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/pdd.png",
     "link": "https://pddfarm.defis.network",
     "koreanDesc": "DFS Swap에서 유동성 및 시장 조성을 제공하고 판타지 멀티 채굴을 시작할 수 있습니다.",
