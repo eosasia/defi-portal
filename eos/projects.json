@@ -55,6 +55,10 @@
     "title": "VIGOR",
     "group": "https://t.me/vigorprotocol",
     "subInfos": [
+       {
+        "label": "Audited",
+        "link": "https://s3.eu-central-1.wasabisys.com/audit-certificates/Smart%20Contract%20Audit%20Certificate%20-%20Vigorprotocol.pdf"
+      },
       {
         "label": "MSIG",
         "link": "https://www.eosx.io/account/dacauth11111?keys=open"
@@ -169,5 +173,47 @@
     "description": "PIZZA-USDE is an EOS based duo-token stablecoin system. The system issues stablecoin (USDE) by collateralizing crypto assets. With excess collateral and deployment of different smart contracts, the system neutralizes the potential risks from market fluctuations and allows the stablecoin 1:1 pegged to USD. PIZZA Token is the governance token in the PIZZA-USDE Stablecoin System.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/pizza.png",
     "group": "https://t.me/PizzaUSDE"
+  },
+  {
+    "id": "PDD",
+    "title": "PDD Farm",
+    "group": "https://t.me/dfsnet",
+    "subInfos": [{ "label": "DFS" }],
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/pdd.png",
+    "link": "https://pddfarm.defis.network",
+    "koreanDesc": "DFS Swap에서 유동성 및 시장 조성을 제공하고 판타지 멀티 채굴을 시작할 수 있습니다.",
+    "chineseDesc": "在DFS Swap提供流动性做市，即可开启梦幻多挖。",
+    "description": "Offer liquidity and market making on DFS Swap, and you can start fantasy multi-digging."
+  },
+  {
+    "id": "YMC",
+    "title": "Mooncake Swap",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/mooncaktoken?keys=open"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/ymc.png",
+    "link": "http://mooncake.network",
+    "koreanDesc": "Mooncake Mooncake는 EOS Defi를 기반으로 한 소셜 실험입니다. 스왑 유동성 채굴, 제로 팀 사전 채굴, 제로 사모 펀드, 제로 예약을 제공함으로써 Mooncake의 글로벌화되고 통합 된 DeFi 아키텍처를 통해 EOS 생태 발전을 촉진하고자합니다.",
+    "chineseDesc": "月饼Mooncake是一個基於EOS Defi建設的社會實驗，通过提供swap流通性挖矿，团队零預挖，零私募，零預留，我們希望通過Mooncake全域化聚合型DeFi架构推動EOS生態發展。",
+    "description": "Mooncake is a social experiment based on THE construction of EOS Defi. We hope to promote the ecological development of EOS by providing the liquidity mining of Swap, zero pre-digging, zero private placement and zero reservation of swap team."
+  },
+  {
+    "id": "CHK",
+    "title": "Chicken",
+    "group": "https://t.me/joinchat/TujnDh3H18Hm0Gq_LuWDGA",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/chickentoken?keys=open"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/chk.png",
+    "link": "http://chickens.finance",
+    "koreanDesc": "CHK는 EOS의 액체 채굴 프로젝트입니다. 개인 키는 유명한 지갑과 슈퍼 노드에 서명되었으며 계약은 오픈 소스였습니다.이 프로젝트에는 사전 채굴, 비공개 배치 및 VC 투자가 없습니다.",
+    "chineseDesc": "CHK是EOS上的流动性挖矿项目，私钥已经多签给著名钱包和超级节点，并且合约已经开源，项目没有预挖，没有私募，没有VC投资。",
+    "description": "CHK is is yield farming on EOS. The project has no pre-mine, no founder shares, no VC interests. "
   }
 ]
