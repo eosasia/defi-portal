@@ -226,5 +226,16 @@
     "koreanDesc": "Hamburger Finance는 블록 체인 기술을 사용하여 대칭 정보, 공정한 거래 및 신뢰 비용이없는 분산 형 금융 시스템을 구축하기 위해 최선을 다하고 있습니다.",
     "chineseDesc": "汉堡金融致力于使用区块链技术构建具有对称信息，公平交易且无信托成本的去中心化金融系统。",
     "description": "Hamburger Finance is committed to using blockchain technology to build a decentralized financial system with symmetric information, fair transactions and no trust costs."
+  },
+  {
+    "id": "USN",
+    "title": "Danchor",
+    "group": "https://danchor.io",
+    "subInfos": [{ "label": "Higher Risk" }],
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/usn.png",
+    "link": "https://danchor.io",
+    "koreanDesc": "Danchor is a decentralized staking stable coin project based on EOS, which supports users to stake EOS to generate stable coin USN (The goal is to peg the US dollar 1:1). Through the risk control mechanism of excess staking and liquidation, the system effectively avoids market fluctuations and ensures that there are sufficient staking items to provide value support for each USN.",
+    "chineseDesc": "Danchor is a decentralized staking stable coin project based on EOS, which supports users to stake EOS to generate stable coin USN (The goal is to peg the US dollar 1:1). Through the risk control mechanism of excess staking and liquidation, the system effectively avoids market fluctuations and ensures that there are sufficient staking items to provide value support for each USN.",
+    "description": "Danchor is a decentralized staking stable coin project based on EOS, which supports users to stake EOS to generate stable coin USN (The goal is to peg the US dollar 1:1). Through the risk control mechanism of excess staking and liquidation, the system effectively avoids market fluctuations and ensures that there are sufficient staking items to provide value support for each USN."
   }
 ]
