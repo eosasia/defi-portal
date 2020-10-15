@@ -237,5 +237,21 @@
     "koreanDesc": "Danchor is a decentralized staking stable coin project based on EOS, which supports users to stake EOS to generate stable coin USN (The goal is to peg the US dollar 1:1). Through the risk control mechanism of excess staking and liquidation, the system effectively avoids market fluctuations and ensures that there are sufficient staking items to provide value support for each USN.",
     "chineseDesc": "Danchor is a decentralized staking stable coin project based on EOS, which supports users to stake EOS to generate stable coin USN (The goal is to peg the US dollar 1:1). Through the risk control mechanism of excess staking and liquidation, the system effectively avoids market fluctuations and ensures that there are sufficient staking items to provide value support for each USN.",
     "description": "Danchor is a decentralized staking stable coin project based on EOS, which supports users to stake EOS to generate stable coin USN (The goal is to peg the US dollar 1:1). Through the risk control mechanism of excess staking and liquidation, the system effectively avoids market fluctuations and ensures that there are sufficient staking items to provide value support for each USN."
+  },
+  {
+    "id": "EOSDT",
+    "title": "EOSDT",
+    "group": "https://t.me/equilibrium_eosdt_official",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/eosdtsttoken?keys=open"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/eosdt.png",
+    "link": "https://eosdt.com/",
+    "koreanDesc": "EOSDT is the #1 decentralized stablecoin on EOS. Lock EOS or BTC collateral and get dollar-pegged EOSDT stablecoins at affordable APR.",
+    "chineseDesc": "EOSDT is the #1 decentralized stablecoin on EOS. Lock EOS or BTC collateral and get dollar-pegged EOSDT stablecoins at affordable APR.",
+    "description": "EOSDT is the #1 decentralized stablecoin on EOS. Lock EOS or BTC collateral and get dollar-pegged EOSDT stablecoins at affordable APR."
   }
 ]
