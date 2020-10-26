@@ -104,7 +104,7 @@
   {
     "id": "wool",
     "title": "WOOL.finance",
-    "subInfos": [{ "label": "Audited" }],
+    "subInfos": [{ "label": "Higher Risk" }],
     "link": "https://wool.finance",
     "koreanDesc": "WOOL 은 YFL 와 BTC의 정신을 이어받아 사전주조, 설립자,투자자, 및 사기가 존재하지 않습니다.",
     "chineseDesc": "WOOL无预挖、无创始人、无花招…是一个完全秉承BTC和YFI去中心化原则的项目。",
@@ -148,7 +148,12 @@
   {
     "id": "dolphin",
     "title": "DolphinSwap",
-    "subInfos": [{ "label": "Higher Risk" }],
+    "subInfos": [ 
+      {
+        "label": "Audited",
+        "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=d7be22a7a68e2a72f3c9c1266effbc65e2b14bde7dfd4667bda1b81fbb37e192"
+      }
+     ],
     "link": "https://dolphinswap.io",
     "chineseDesc": "DOP是DolphinSwap平台的治理代币，它将与DolphinSwap业务紧密结合。成为EFI生态的重要组成部分。",
     "koreanDesc": "DOP는 DolphinSwap 플랫폼의 거버넌스 토큰이며 DolphinSwap 비지니스와 깊은 연관성을 가질 것입니다. DolphinSwap는 EFi 생태계의 중요한 부분이 될 것입니다.",
