@@ -262,5 +262,21 @@
     "koreanDesc": "EOSDT is the #1 decentralized stablecoin on EOS. Lock EOS or BTC collateral and get dollar-pegged EOSDT stablecoins at affordable APR.",
     "chineseDesc": "EOSDT is the #1 decentralized stablecoin on EOS. Lock EOS or BTC collateral and get dollar-pegged EOSDT stablecoins at affordable APR.",
     "description": "EOSDT is the #1 decentralized stablecoin on EOS. Lock EOS or BTC collateral and get dollar-pegged EOSDT stablecoins at affordable APR."
+  },
+  {
+    "id": "cow",
+    "title": "Cow",
+    "link": "https://cows.network",
+    "group": "https://cows.network/rules",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/cowtokencode?keys=open"
+      }
+    ],
+    "koreanDesc": "Cow (양육우)는 EOS의 액체 채굴 프로젝트입니다.이 프로젝트에는 사전 채굴, 사모 펀드, VC 투자가 없습니다.",
+    "chineseDesc": "Cow（养奶牛）是EOS上的流动性挖矿项目, 项目没有预挖，没有私募，没有VC投资。",
+    "description": "Cow (raising cows) is a liquid mining project on EOS. The project has no pre-mining, no private equity, no VC investment.",
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/cow.png"
   }
 ]
