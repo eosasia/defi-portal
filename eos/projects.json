@@ -310,5 +310,16 @@
     "description": "Earn BLESS tokens by staking tokens or providing liquidity.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/bless.png",
     "group": "https://t.me/godfinance"
+  },
+    {
+    "id": "pto",
+    "title": "PTO-DeFi",
+    "subInfos": [{ "label": "Higher Risk" }],
+    "link": "https://www.pto.one",
+    "chineseDesc": "PTO专注于构建EOS领域最优秀的DeFi协议与服务，打造EOS社区的Uniswap。",
+    "koreanDesc": "PTO는 EOS 분야에서 최고의 DeFi 프로토콜과 서비스를 구축하고 EOS 커뮤니티의 Uniswap을 구축하는 데 중점을 둡니다.",
+    "description": "PTO focuses on building the best DeFi protocols and services in the EOS field, and creating the Uniswap of the EOS community.",
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/pto.png",
+    "group": "https://t.me/ptocn"
   }
 ]
