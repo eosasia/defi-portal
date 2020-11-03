@@ -115,7 +115,12 @@
   {
     "id": "superdad",
     "title": "DAD Token",
-    "subInfos": [{ "label": "Higher Risk" }],
+    "subInfos": [
+      { 
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/dadgovernanc?keys=open"
+      }
+    ],
     "link": "https://www.reddit.com/r/dappaccountDAO/",
     "chineseDesc": "DAD组建了一个去中心化社区，目前正在尝试一种资源模型和治理系统，该系统完全去中心化。不受任何中心化组织或者团队控制，而是由社区本身控制。",
     "koreanDesc": "DAD는 제안된 리소스 모델을 실험하는 분산화 커뮤니티입니다. DAD의 거버넌스 시스템은 어떠한 중앙화된 그룹으로부터 영향을 받지 않으며, 커뮤니티에 의해 이끌어집니다.",
