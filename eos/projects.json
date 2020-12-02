@@ -13,7 +13,7 @@
         "link": "https://www.eosx.io/account/eosdmdtokens?keys=open"
       }
     ],
-    "group": "https://t.me/dmdfinace",
+    "group": "https://t.me/efi_global",
     "description": "DMD.finance is the first yield farming on EOS, which shows its respect to YFI. No pre-mine, no founder shares, no VC interests, equality for every participant.",
     "chineseDesc": "DMD.finance相当于EOS上的YFI，是EOS上的第一个流动性挖矿项目。该项目无预挖、无创始人、无风投利益，参与者人人平等，充分体现去中心化原则。",
     "koreanDesc": "DMD.파이낸스는YFI의 정신을 이어받은EOS 최초의 Yield 파밍입니다. DMD.파이낸스는 설립자와 투자자들을 위한 쉐어가 없으며, 모든 참가자들에게 동등한 서비스를 제공합니다.",
@@ -79,7 +79,7 @@
     "koreanDesc": "eHUB는 퍼미션 없이 프라이빗 크로스체인 거래를 가능하게 해주는 오픈소스 프로토콜입니다. 이는 크로스체인 자산을 DeFi 어플리케이션에 유입시킬 수 있게 해줍니다.",
     "description": "eHUB: an open protocol that can realize private cross-chain value transfer without permission. It allows to introduce cross-chain assets into their DeFi applications.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/ehub.png",
-    "group": "https://t.me/dmdfinace"
+    "group": "https://t.me/efi_global"
   },
   {
     "id": "coral",
@@ -164,7 +164,7 @@
     "koreanDesc": "DOP는 DolphinSwap 플랫폼의 거버넌스 토큰이며 DolphinSwap 비지니스와 깊은 연관성을 가질 것입니다. DolphinSwap는 EFi 생태계의 중요한 부분이 될 것입니다.",
     "description": "DOP is the governance token of the DolphinSwap platform, which will be deeply bound to the DolphinSwap business. DolphinSwap and will be an important part of the EFi ecology.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/dop.png",
-    "group": "https://t.me/dmdfinace"
+    "group": "https://t.me/efi_global"
   },
   {
     "id": "rabbit",
