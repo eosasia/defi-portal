@@ -321,5 +321,21 @@
     "description": "PTO focuses on building the best DeFi protocols and services in the EOS field, and creating the Uniswap of the EOS community.",
     "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/pto.png",
     "group": "https://t.me/ptocn"
+  },
+   {
+    "id": "tag",
+    "title": "TAG",
+    "link": "https://www.defis.network/",
+    "group": "https://t.me/dfsnet",
+    "subInfos": [
+      {
+        "label": "Audited",
+        "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=ca2c97083e94d0958e9376b770b16a7f8ddd53fb1e5f1b9cbabc0ccf8d157d40"
+      }
+    ],
+    "koreanDesc": "DeFis Network의 수확.",
+    "chineseDesc": "DeFis Network的收获。",
+    "description": "DeFis Network's harvest.",
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/tag.png"
   }
 ]
