@@ -82,26 +82,6 @@
     "group": "https://t.me/efi_global"
   },
   {
-    "id": "coral",
-    "title": "Coral",
-    "subInfos": [
-      {
-        "label": "Audited",
-        "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=eb2b27df388fab8703dffaf366980b4df4d2b00693e80b64ceacac06bb7202f0"
-      },
-      { 
-        "label": "MSIG",
-        "link": "https://www.eosx.io/account/coralfitoken?keys=open"
-      }
-    ],
-    "link": "https://crl.finance/",
-    "chineseDesc": "用户可通过抵押代币或提供流动性赚取Coral代币。",
-    "koreanDesc": "토큰들 스테이킹하거나 유동성을 공급하여 Coral 토큰을 벌 수 있습니다.",
-    "description": "Earn Coral tokens by staking Tokens or providing liquidity.",
-    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/coral.png",
-    "group": "https://t.me/coral_finance"
-  },
-  {
     "id": "wool",
     "title": "WOOL.finance",
     "subInfos": [{ "label": "Higher Risk" }],
