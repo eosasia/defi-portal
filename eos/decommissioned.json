@@ -1,0 +1,96 @@
+[
+  {
+    "id": "coral",
+    "title": "Coral",
+    "subInfos": [
+      {
+        "label": "Audited",
+        "link": "https://www.slowmist.com/en/security-audit-certificate.html?id=eb2b27df388fab8703dffaf366980b4df4d2b00693e80b64ceacac06bb7202f0"
+      },
+      { 
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/coralfitoken?keys=open"
+      }
+    ],
+    "link": "https://crl.finance/",
+    "chineseDesc": "用户可通过抵押代币或提供流动性赚取Coral代币。",
+    "koreanDesc": "토큰들 스테이킹하거나 유동성을 공급하여 Coral 토큰을 벌 수 있습니다.",
+    "description": "Earn Coral tokens by staking Tokens or providing liquidity.",
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/coral.png",
+    "group": "https://t.me/coral_finance"
+  },
+  {
+    "id": "rabbit",
+    "title": "Rabbit",
+    "subInfos": [{ "label": "Higher Risk" }],
+    "link": "https://www.rabbits.finance",
+    "chineseDesc": "第一个在EOS上采用TVI模式的优质农场。 没有创始人，没有风险投资，人人平等。",
+    "koreanDesc": "EOS에서 TVI모드를 채택한 최초의 Yield농장. 설립자 또는 투자자가 없으며, 모두에게 동등합니다.",
+    "description": "The first Yield Farm to adopt TVI mode on EOS. No founders, no VC, equality for everyone.",
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/rabbit.png",
+    "group": "https://t.me/rabbits_eos"
+  },
+  {
+    "id": "YMC",
+    "title": "Mooncake Swap",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/mooncaktoken?keys=open"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/ymc.png",
+    "link": "http://mooncake.network",
+    "koreanDesc": "Mooncake Mooncake는 EOS Defi를 기반으로 한 소셜 실험입니다. 스왑 유동성 채굴, 제로 팀 사전 채굴, 제로 사모 펀드, 제로 예약을 제공함으로써 Mooncake의 글로벌화되고 통합 된 DeFi 아키텍처를 통해 EOS 생태 발전을 촉진하고자합니다.",
+    "chineseDesc": "月饼Mooncake是一個基於EOS Defi建設的社會實驗，通过提供swap流通性挖矿，团队零預挖，零私募，零預留，我們希望通過Mooncake全域化聚合型DeFi架构推動EOS生態發展。",
+    "description": "Mooncake is a social experiment based on THE construction of EOS Defi. We hope to promote the ecological development of EOS by providing the liquidity mining of Swap, zero pre-digging, zero private placement and zero reservation of swap team."
+  },
+  {
+    "id": "CHK",
+    "title": "Chicken",
+    "group": "https://t.me/joinchat/TujnDh3H18Hm0Gq_LuWDGA",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/chickentoken?keys=open"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/chk.png",
+    "link": "http://chickens.finance",
+    "koreanDesc": "CHK는 EOS의 액체 채굴 프로젝트입니다. 개인 키는 유명한 지갑과 슈퍼 노드에 서명되었으며 계약은 오픈 소스였습니다.이 프로젝트에는 사전 채굴, 비공개 배치 및 VC 투자가 없습니다.",
+    "chineseDesc": "CHK是EOS上的流动性挖矿项目，私钥已经多签给著名钱包和超级节点，并且合约已经开源，项目没有预挖，没有私募，没有VC投资。",
+    "description": "CHK is is yield farming on EOS. The project has no pre-mine, no founder shares, no VC interests. "
+  },
+  {
+    "id": "cow",
+    "title": "Cow",
+    "link": "https://cows.network",
+    "group": "https://cows.network/rules",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/cowtokencode?keys=open"
+      }
+    ],
+    "koreanDesc": "Cow (양육우)는 EOS의 액체 채굴 프로젝트입니다.이 프로젝트에는 사전 채굴, 사모 펀드, VC 투자가 없습니다.",
+    "chineseDesc": "Cow（养奶牛）是EOS上的流动性挖矿项目, 项目没有预挖，没有私募，没有VC投资。",
+    "description": "Cow (raising cows) is a liquid mining project on EOS. The project has no pre-mining, no private equity, no VC investment.",
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/cow.png"
+  },
+  {
+    "id": "gem",
+    "title": "Gem",
+    "link": "http://gemswap.network",
+    "group": "https://t.me/GemSwapGroup",
+    "subInfos": [
+      {
+        "label": "MSIG",
+        "link": "https://www.eosx.io/account/gemtokencode?keys=open"
+      }
+    ],
+    "koreanDesc": "GEM GEM은 EOS Defi를 기반으로 한 소셜 실험입니다. 그 포지셔닝은 EOS의 YFI로, 사전 채굴 제로, 비공개 배치 제로, 팀 예약 제로, 전적으로 커뮤니티 및 안전한 스마트 계약에 의존합니다.",
+    "chineseDesc": "寶石GEM是一個基於EOS Defi建設的社會實驗，其定位是EOS的YFI，零預挖，零私募，零團隊預留，完全依靠社區與安全的智能合約。",
+    "description": "Gem GEM is a social experiment based on EOS DeFi. Its positioning is EOS's YFI, zero VC investment, zero private equity investment, zero pre-mining, and zero team reservations, relying entirely on community and safe smart contracts.",
+    "image": "https://raw.githubusercontent.com/eosasia/defi-portal/main/logos/gem.png"
+   }
+]
